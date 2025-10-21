@@ -1,5 +1,7 @@
 REG_SIZE = 69  # 68 chars + \n
 
+## Para compilarlo inventario.py y luego correrlo:
+
 def pad(text, length):
     return str(text).ljust(length)[:length]  # corta o rellena con espacios
 
