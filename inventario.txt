@@ -1,0 +1,4 @@
+1    arduino                  www.alvatron.com    micrccontrol4     
+2    sensor                   www.elvatron.com    actuador    6     
+3    infrarojo                www.elvatron.com    sensor      8     
+4    cable                    www.elvatron.com    pasivo      9     
