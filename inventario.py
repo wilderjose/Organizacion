@@ -124,6 +124,7 @@ def menu():
             break
         else:
             print("Opción no válida, intente nuevamente.\n")
+            print("Este programa fue desarrollado por Suárez.\n")
 
 # --- PROGRAMA PRINCIPAL ---
 if __name__ == "__main__":
